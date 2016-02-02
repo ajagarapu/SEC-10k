@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--XBRL document created with CrossTag XBRL Enabler by Rivet Software version 2.0.3089.23121-->
+<!--Based on XBRL 2.1--> <!--Created on: 6/25/2008 5:20:47 PM--> <!--Modified on: 3/4/2009 11:57:43 AM-->
+<linkbase xmlns="http://www.xbrl.org/2003/linkbase"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xbrldt="http://xbrl.org/2005/xbrldt"
+xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
+<roleRef xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-roles-2008-03-31.xsd#ent"
+roleURI="http://xbrl.us/us-gaap/role/document/EntityInformation" /> <roleRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-roles-2008-03-31.xsd#sheci"
+roleURI="http://xbrl.us/us-gaap/role/statement/StatementOfShareholdersEquityAndOtherComprehensiveIncome" />
+<arcroleRef xlink:type="simple"
+xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member"
+arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" /> <roleRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-roles-2008-03-31.xsd#com"
+roleURI="http://xbrl.us/us-gaap/role/statement/CommonDomainMembers" /> <roleRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-roles-2008-03-31.xsd#scf-indir"
+roleURI="http://xbrl.us/us-gaap/role/statement/StatementOfCashFlowsIndirect" />
+<arcroleRef xlink:type="simple"
+xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain"
+arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" /> <roleRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-roles-2008-03-31.xsd#sfp-cls"
+roleURI="http://xbrl.us/us-gaap/role/statement/StatementOfFinancialPositionClassified" />
+<definitionLink xlink:type="extended"
+xlink:role="http://xbrl.us/us-gaap/role/statement/StatementOfFinancialPositionClassified"
+xlink:title="http://xbrl.us/us-gaap/role/statement/StatementOfFinancialPositionClassified">
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_StatementScenarioAxis"
+xlink:label="us-gaap_StatementScenarioAxis" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ScenarioUnspecifiedDomain"
+xlink:label="us-gaap_ScenarioUnspecifiedDomain" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain"
+xlink:from="us-gaap_StatementScenarioAxis"
+xlink:to="us-gaap_ScenarioUnspecifiedDomain" order="1" priority="1"
+use="prohibited" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ScenarioUnspecifiedDomain"
+xlink:label="us-gaap_ScenarioUnspecifiedDomain_633500112477598814" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain"
+xlink:from="us-gaap_StatementScenarioAxis"
+xlink:to="us-gaap_ScenarioUnspecifiedDomain_633500112477598814" order="1"
+use="optional" priority="2"
+xbrldt:targetRole="http://xbrl.us/us-gaap/role/statement/CommonDomainMembers" />
+</definitionLink> <definitionLink xlink:type="extended"
+xlink:role="http://xbrl.us/us-gaap/role/statement/CommonDomainMembers"
+xlink:title="http://xbrl.us/us-gaap/role/statement/CommonDomainMembers"> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ScenarioUnspecifiedDomain"
+xlink:label="us-gaap_ScenarioUnspecifiedDomain" /> <loc
+xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_ScenarioUnauditedmember"
+xlink:label="dd_ScenarioUnauditedmember" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
+xlink:from="us-gaap_ScenarioUnspecifiedDomain"
+xlink:to="dd_ScenarioUnauditedmember" order="0.5" use="optional"
+priority="1" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ClassOfStockDomain"
+xlink:label="us-gaap_ClassOfStockDomain" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_PreferredStock450Series1673000SharescallableAt120"
+xlink:label="dd_PreferredStock450Series1673000SharescallableAt120" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
+xlink:from="us-gaap_ClassOfStockDomain"
+xlink:to="dd_PreferredStock450Series1673000SharescallableAt120"
+order="25.5" use="optional" priority="1" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_PreferredStock350Series700000SharescallableAt102"
+xlink:label="dd_PreferredStock350Series700000SharescallableAt102" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
+xlink:from="us-gaap_ClassOfStockDomain"
+xlink:to="dd_PreferredStock350Series700000SharescallableAt102"
+order="25.75" use="optional" priority="1" /> </definitionLink> <definitionLink
+xlink:type="extended"
+xlink:role="http://xbrl.us/us-gaap/role/statement/StatementOfCashFlowsIndirect"
+xlink:title="http://xbrl.us/us-gaap/role/statement/StatementOfCashFlowsIndirect">
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_StatementScenarioAxis"
+xlink:label="us-gaap_StatementScenarioAxis" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ScenarioUnspecifiedDomain"
+xlink:label="us-gaap_ScenarioUnspecifiedDomain" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain"
+xlink:from="us-gaap_StatementScenarioAxis"
+xlink:to="us-gaap_ScenarioUnspecifiedDomain" order="1" priority="1"
+use="prohibited" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ScenarioUnspecifiedDomain"
+xlink:label="us-gaap_ScenarioUnspecifiedDomain_633500112477911302" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain"
+xlink:from="us-gaap_StatementScenarioAxis"
+xlink:to="us-gaap_ScenarioUnspecifiedDomain_633500112477911302" order="1"
+use="optional" priority="2"
+xbrldt:targetRole="http://xbrl.us/us-gaap/role/statement/CommonDomainMembers" />
+</definitionLink> <definitionLink xlink:type="extended"
+xlink:role="http://xbrl.us/us-gaap/role/document/EntityInformation"
+xlink:title="http://xbrl.us/us-gaap/role/document/EntityInformation"> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/non-gaap/dei-2008-03-31.xsd#dei_LegalEntityAxis"
+xlink:label="dei_LegalEntityAxis" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/non-gaap/dei-2008-03-31.xsd#dei_EntityDomain"
+xlink:label="dei_EntityDomain" /> <definitionArc xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain"
+xlink:from="dei_LegalEntityAxis" xlink:to="dei_EntityDomain" order="1"
+priority="1" use="prohibited" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/non-gaap/dei-2008-03-31.xsd#dei_EntityDomain"
+xlink:label="dei_EntityDomain_633704777449732432" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain"
+xlink:from="dei_LegalEntityAxis"
+xlink:to="dei_EntityDomain_633704777449732432" order="1" use="optional"
+priority="2"
+xbrldt:targetRole="http://xbrl.us/us-gaap/role/statement/CommonDomainMembers" />
+</definitionLink> <definitionLink xlink:type="extended"
+xlink:role="http://xbrl.us/us-gaap/role/statement/StatementOfShareholdersEquityAndOtherComprehensiveIncome"
+xlink:title="http://xbrl.us/us-gaap/role/statement/StatementOfShareholdersEquityAndOtherComprehensiveIncome">
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_StatementScenarioAxis"
+xlink:label="us-gaap_StatementScenarioAxis" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ScenarioUnspecifiedDomain"
+xlink:label="us-gaap_ScenarioUnspecifiedDomain" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain"
+xlink:from="us-gaap_StatementScenarioAxis"
+xlink:to="us-gaap_ScenarioUnspecifiedDomain" order="1" priority="1"
+use="prohibited" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ScenarioUnspecifiedDomain"
+xlink:label="us-gaap_ScenarioUnspecifiedDomain_633705621255870942" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain"
+xlink:from="us-gaap_StatementScenarioAxis"
+xlink:to="us-gaap_ScenarioUnspecifiedDomain_633705621255870942" order="1"
+use="optional" priority="2"
+xbrldt:targetRole="http://xbrl.us/us-gaap/role/statement/CommonDomainMembers" />
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_StatementClassOfStockAxis"
+xlink:label="us-gaap_StatementClassOfStockAxis" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ClassOfStockDomain"
+xlink:label="us-gaap_ClassOfStockDomain" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain"
+xlink:from="us-gaap_StatementClassOfStockAxis"
+xlink:to="us-gaap_ClassOfStockDomain" order="3" priority="1"
+use="prohibited" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ClassOfStockDomain"
+xlink:label="us-gaap_ClassOfStockDomain_633705621256652217" /> <definitionArc
+xlink:type="arc"
+xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain"
+xlink:from="us-gaap_StatementClassOfStockAxis"
+xlink:to="us-gaap_ClassOfStockDomain_633705621256652217" order="3"
+use="optional" priority="2"
+xbrldt:targetRole="http://xbrl.us/us-gaap/role/statement/CommonDomainMembers" />
+</definitionLink> </linkbase>

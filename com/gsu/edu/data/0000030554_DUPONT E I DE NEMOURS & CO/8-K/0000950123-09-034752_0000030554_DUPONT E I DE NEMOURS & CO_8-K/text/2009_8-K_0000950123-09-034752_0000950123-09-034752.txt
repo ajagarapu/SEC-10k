@@ -1,0 +1,992 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LmqUWQbvtXxf6ovOnnoWP1U2T1WKYCLGIxQgUAxKcl7VCgRVFkpJAyrurD5hwrnX
+ aTLzk9HgPx10/vI7IEHwBQ==
+
+<SEC-DOCUMENT>0000950123-09-034752.txt : 20090813
+<SEC-HEADER>0000950123-09-034752.hdr.sgml : 20090813
+<ACCEPTANCE-DATETIME>20090813165955
+ACCESSION NUMBER:		0000950123-09-034752
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090811
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20090813
+DATE AS OF CHANGE:		20090813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DUPONT E I DE NEMOURS & CO
+		CENTRAL INDEX KEY:			0000030554
+		STANDARD INDUSTRIAL CLASSIFICATION:	PLASTIC MATERIAL, SYNTH RESIN/RUBBER, CELLULOS (NO GLASS) [2820]
+		IRS NUMBER:				510014090
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00815
+		FILM NUMBER:		091011157
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1007 MARKET ST
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19898
+		BUSINESS PHONE:		3027741000
+
+	MAIL ADDRESS:	
+		STREET 1:		1007 MARKET ST
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19898
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>w75368e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+PURSUANT TO SECTION 13 OR 15(d) OF<BR>
+THE SECURITIES EXCHANGE ACT OF 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>
+Date of Report (Date of Earliest Event Reported) August&nbsp;11, 2009</B>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>E. I. du Pont de Nemours and Company</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">
+(Exact Name of Registrant as Specified in Its Charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Delaware<BR>
+(State or Other Jurisdiction <BR>
+Of Incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">1-815<BR>
+(Commission<BR>
+File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">51-0014090<BR>
+(I.R.S. Employer<BR>
+Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+1007 Market Street<BR>
+
+Wilmington, Delaware 19898<BR>
+
+(Address of principal executive offices)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+Registrant&#146;s telephone number, including area code: (302)&nbsp;774-1000</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions:</DIV>
+
+<DIV align="left" style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+
+<TR>
+    <TD valign="top"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)
+</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+
+<TR>
+    <TD valign="top"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)
+</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+
+<TR>
+    <TD valign="top"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+
+<TR>
+    <TD valign="top"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+</TD>
+</TR>
+</TABLE>
+</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio --><!-- /Folio -->
+</DIV>
+
+
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link2 "Item&nbsp;5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers." -->
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;5.02 </B>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">On August&nbsp;11, 2009 the Board of Directors of E. I. du Pont de Nemours and Company (&#147;Company&#148;) took
+the following actions:
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Named Nicholas C. Fanandakis, age 53, Senior Vice President (&#147;SVP&#148;) effective September
+1, 2009, at which time he will begin to transition into the role of Chief Financial
+Officer. Effective November&nbsp;1, 2009, he will become SVP and Chief Financial Officer.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Appointed Mr.&nbsp;Fanandakis to the Office of the Chief Executive effective September&nbsp;1,
+2009.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Board&#146;s Compensation Committee also approved an increase in Mr.&nbsp;Fanandakis&#146; annual salary from
+$387,708 to $500,000 effective September&nbsp;1, 2009 to reflect his appointments. Consistent
+therewith, Mr.&nbsp;Fanandakis&#146; target short-term incentive award for 2009 under the Company&#146;s Equity
+and Incentive Plan will increase from $328,500 to $464,100.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Mr.&nbsp;Fanandakis was named to his current position, Group Vice President- Applied BioSciences, in
+January&nbsp;2008. Prior to that, he was vice president and general manager- DuPont Chemical Solutions
+Enterprise from September&nbsp;2003 through September&nbsp;2006 and vice president- Corporate Plans from
+October&nbsp;2006 through December&nbsp;2007.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Jeffrey L. Keefer, EVP and Chief Financial Officer, will remain EVP and transition from the
+position of Chief Financial Officer to assume leadership responsibility for the Company&#146;s
+Performance Coatings business, corporate strategy development,
+Information Technology and overall cost and working
+capital productivity efforts effective November&nbsp;1, 2009.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Richard R. Goodmanson, EVP and Chief Operating Officer has elected to retire from the Company
+effective September&nbsp;30, 2009. As previously reported on Form 8-K filed with the Securities and
+Exchange Commission on October&nbsp;6, 2008, Mr.&nbsp;Goodmanson will remain with the Company as a consultant
+for three years following his retirement.
+</DIV>
+
+<!-- link2 "Item&nbsp;8.01 Other Events" -->
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;8.01 </B>Other Events
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">On August&nbsp;13, 2009, the Company issued a press release announcing a number of organizational
+changes, including redefining its external financial reporting to aggregated segments. A copy of
+the press release is attached hereto as Exhibit&nbsp;99.1 and is incorporated herein by reference.
+</DIV>
+
+
+<!-- link2 "Item&nbsp;9.01 Financial Statements and Exhibits" -->
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;9.01 </B>Financial Statements and Exhibits
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(d)&nbsp;Exhibits
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The
+following exhibits are filed herewith:
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">99.1</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Press Release issued by the Company, dated August&nbsp;13,
+2009.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 " SIGNATURE" -->
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">SIGNATURE
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="center">E. I. DU PONT DE NEMOURS AND COMPANY<BR>
+(Registrant)<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="center">       /s/ Barry J. Niziolek
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="center">Barry J. Niziolek&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="center">Vice President and Controller&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">August&nbsp;13, 2009</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>w75368exv99w1.htm
+<DESCRIPTION>EX 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Contact:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Anthony Farina</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">302-773-4418 &#151; office</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">302-545-0316 &#151; mobile</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><u>anthony.r.farina@usa.dupont.com</u></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>DuPont Takes Actions to Capitalize on Global Growth Opportunities</B><BR>
+<B><I>Company Streamlines Organization and Names New Leadership Team</I></B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WILMINGTON, Del., Aug. 13, 2009 &#151; DuPont CEO Ellen Kullman today announced actions supporting
+the company&#146;s commitments to customers, sustainable growth, and delivering revenue and earnings
+growth through market-driven science.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The company will sharply focus its innovation engines on four emerging trends to meet the
+increasing demand for food; protect people and the environment; decrease dependence on fossil
+fuels; and capitalize on the growth of emerging markets. In addition, DuPont will strengthen its
+alignment with customers and markets; drive disciplined scientific innovation directly from market
+needs; increase transparency and accountability for results with a simplified organization; and
+continue its intense focus on productivity. In support of the renewed focus, the company also
+announced several leadership appointments.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;DuPont&#146;s leadership in market-driven science uniquely positions the company to capitalize on
+four global trends that will define the coming decades. The actions we are taking today will give
+our organization the focus and responsiveness it needs to deliver sustainable customer solutions to
+the demands created by those trends,&#148; Kullman said.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;The people of DuPont successfully managed through the extraordinary economic conditions of
+the past year and delivered on our commitments for the first half of 2009,&#148; Kullman added. &#147;DuPont
+will meet the economic recovery as a stronger, faster and more agile global competitor. We will
+accomplish this by driving responsibility and accountability ever-closer to our customers and
+regions, providing greater transparency to our progress and results, streamlining our organization,
+and maintaining an intense focus on productivity.&#148;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Streamlined Organization</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Key components of DuPont&#146;s more streamlined organization include:
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Eliminating the five group vice president positions and existing support structure
+associated with the platforms that house DuPont&#146;s businesses;</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Consolidating the company&#146;s 23 businesses into 14, each with clear accountability for
+profit-and-loss and cash management and a direct reporting line to the company&#146;s senior
+leadership team;</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Streamlining the 14 businesses to drive decision-making closer to customers by increasing
+regional business responsibility and accountability.</TD>
+</TR>
+
+</TABLE>
+</DIV></DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Leadership Appointments</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effective Oct. 1, the following senior leaders and assignments are part of the organizational
+alignment:
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Thomas M. Connelly, Jr., </B>executive vice president and chief innovation officer, will be
+responsible for the Applied BioSciences, Nutrition &#038; Health, Performance Polymers, and
+Packaging &#038; Industrial Polymers businesses. He will continue to lead science and technology
+and the geographic regions outside the United States. In addition, Connelly will lead the
+integration of the sourcing and logistics and operations functions to capture potential
+productivity available from end-to-end process improvements.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>James C. Borel, </B>group vice president &#151; DuPont Agriculture, is named executive vice
+president. He will be responsible for the company&#146;s Pioneer Hi-Bred and Crop Protection
+businesses. Borel will focus on strengthening and growing the company&#146;s production
+agriculture businesses globally.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Mark P. Vergnano, </B>group vice president &#151; DuPont Safety &#038; Protection, is named executive
+vice president. He will be responsible for the Building Innovations, Protection Technologies,
+Safety Resources, Electronics &#038; Communications, Chemical Solutions, Fluoroproducts, and
+Titanium Technologies businesses. He also will lead the company&#146;s sustainability, safety,
+communications, and sales and marketing functions.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Jeffrey L. Keefer, </B>executive vice president and chief financial officer (CFO), will move to
+a new role with responsibility for the Performance Coatings business, corporate strategy
+development process, and overall cost and working capital productivity efforts. He will
+continue as CFO until Oct. 31 to ensure a smooth transition to the new CFO.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Nicholas C. Fanandakis, </B>group vice president &#151; Applied BioSciences, will begin to
+transition Sept. 1 and become CFO effective Nov. 1. Fanandakis has served in a range of
+financial and business leadership positions during his 30-year career at DuPont.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Richard R. Goodmanson, </B>chief operating officer, will pursue his plans to retire, effective
+Sept. 30.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Jeffrey A. Coe, </B>senior vice president &#151; Sourcing &#038; Logistics, is named senior vice
+president &#151; Integrated Operations &#038; Engineering effective Sept. 1 following the retirement of
+<B>Mathieu Vrijsen.</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The company announced the following presidents will lead its 14 businesses, effective
+Oct. 1:
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pioneer Hi-Bred <B>&#151; Paul E. Schickler</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Crop Protection &#151; <B>James C. Collins</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Nutrition &#038; Health &#151; <B>Craig F. Binetti</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Electronics &#038; Communications &#151; <B>David B. Miller</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Performance Coatings &#151; <B>Terry Caloghiris</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Performance Polymers &#151; <B>Diane H. Gulyas</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Packaging &#038; Industrial Polymers &#151; <B>William J. Harvey</B></TD>
+</TR>
+
+</TABLE>
+</DIV></DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Protection Technologies &#151; <B>Thomas G. Powell</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Building Innovations &#151; <B>Thomas F. Schuler</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Safety Resources &#151; <B>James R. Weigand</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Chemical Solutions &#151; <B>Gary W. Spitzer</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Fluoroproducts &#151; <B>Cynthia C. Green</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Titanium Technologies &#151; <B>Richard C. Olson</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Applied BioSciences &#151; <B>Craig F. Binetti </B>(effective Sept. 1.)</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Our new leadership team consists of people who have demonstrated a sharp focus on increasing
+the value we provide customers and the speed with which we execute,&#148; Kullman said. &#147;Together, we
+are eager to capture our opportunities for sustainable and profitable growth, enhance our speed and
+accountability, and extend DuPont&#146;s legacy of market-driven innovation.&#148;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Greater Transparency</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effective Oct. 1, the company will redefine its external financial reporting to the following
+aggregated segments:
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Agriculture &#038; Nutrition (Pioneer Hi-Bred, Crop Protection, Nutrition &#038; Health)</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Electronics &#038; Communications</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Performance Coatings</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Performance Materials (Performance Polymers and Packaging &#038; Industrial Polymers)</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Safety &#038; Protection (Protection Technologies, Building Innovations, Safety Resources)</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Performance Chemicals (Chemical Solutions, Fluoroproducts, Titanium Technologies)</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pharmaceuticals.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DuPont is a science-based products and services company. Founded in 1802, DuPont puts science
+to work by creating sustainable solutions essential to a better, safer, healthier life for people
+everywhere. Operating in more than 70 countries, DuPont offers a wide range of innovative products
+and services for markets including agriculture and food; building and construction; communications;
+and transportation.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"># # #
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">8/13/09
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio --><!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--XBRL document created with CrossTag XBRL Enabler by Rivet Software version 2.0.3089.23121-->
+<!--Based on XBRL 2.1--> <!--Created on: 6/25/2008 5:20:47 PM--> <!--Modified on: 3/4/2009 11:57:42 AM-->
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+xmlns:xbrli="http://www.xbrl.org/2003/instance"
+xmlns:link="http://www.xbrl.org/2003/linkbase"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:us-types="http://xbrl.us/us-types/2008-03-31"
+targetNamespace="http://www.dupont.com/20081231"
+xmlns:dd="http://www.dupont.com/20081231" elementFormDefault="qualified"
+attributeFormDefault="unqualified"
+xmlns:xbrldt="http://xbrl.org/2005/xbrldt"> <annotation> <appinfo> <link:roleType
+roleURI="http://www.dupont.com/Disclosurenotestotheconsolidatedfinancialstatements"
+id="Disclosurenotestotheconsolidatedfinancialstatements"> <link:usedOn>link:presentationLink</link:usedOn>
+</link:roleType> <link:linkbaseRef xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-ci-com-pre-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Presentation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-ci-scf-indir-pre-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Presentation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-ci-sfp-cls-pre-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Presentation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-ci-soi2-pre-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Presentation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-ci-scf-indir-cal-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Calculation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-ci-sfp-cls-cal-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Calculation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-ci-soi2-cal-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Calculation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-com-def-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Definition Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-scf-indir-def-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Definition Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-sfp-cls-def-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Definition Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-ref-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/referenceLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Reference Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-doc-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Label Links, all" /> <link:linkbaseRef xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-lab-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Label Links, all" /> <link:linkbaseRef xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/non-gaap/dei-lab-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Label Links, all" /> <link:linkbaseRef xlink:type="simple"
+xlink:href="dd-20081231_def.xml"
+xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Definition Links, all" /> <link:linkbaseRef
+xlink:type="simple" xlink:href="dd-20081231_pre.xml"
+xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Presentation Links, all" /> <link:linkbaseRef
+xlink:type="simple" xlink:href="dd-20081231_lab.xml"
+xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Label Links, all" /> <link:linkbaseRef xlink:type="simple"
+xlink:href="dd-20081231_cal.xml"
+xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Calculation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/dis/us-gaap-dis-se-pre-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Presentation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/dis/us-gaap-dis-se-def-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Definition Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/non-gaap/dei-pre-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Presentation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/non-gaap/us-gaap-doc-di-def-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Definition Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/non-gaap/us-gaap-doc-ent-def-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Definition Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/non-gaap/dei-ref-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/referenceLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Reference Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/non-gaap/dei-doc-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Label Links, all" /> <link:linkbaseRef xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-ci-sheci-pre-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Presentation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-ci-sheci-cal-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Calculation Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-sheci-def-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Definition Links, all" /> <link:linkbaseRef
+xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/stm/us-gaap-stm-ci-sheci2-cal-2008-03-31.xml"
+xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef"
+xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+xlink:title="Calculation Links, all" /> </appinfo> </annotation> <import
+namespace="http://www.xbrl.org/2003/instance"
+schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd" />
+<import namespace="http://www.xbrl.org/2003/linkbase"
+schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" />
+<import namespace="http://xbrl.us/us-types/2008-03-31"
+schemaLocation="http://xbrl.us/us-gaap/1.0/elts/us-types-2008-03-31.xsd" />
+<import namespace="http://xbrl.us/us-gaap/2008-03-31"
+schemaLocation="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd" />
+<import namespace="http://xbrl.us/dei/2008-03-31"
+schemaLocation="http://xbrl.us/us-gaap/1.0/non-gaap/dei-2008-03-31.xsd" />
+<element id="dd_OtherIncomeNet" name="OtherIncomeNet"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" xbrli:balance="credit" /> <element
+id="dd_Total" name="Total" type="xbrli:monetaryItemType"
+substitutionGroup="xbrli:item" nillable="true"
+xbrli:periodType="duration" xbrli:balance="credit" /> <element
+id="dd_CostGoosSoldOtherOperatingCharges"
+name="CostGoosSoldOtherOperatingCharges" type="xbrli:monetaryItemType"
+substitutionGroup="xbrli:item" nillable="true"
+xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_TotalExpenses" name="TotalExpenses" type="xbrli:monetaryItemType"
+substitutionGroup="xbrli:item" nillable="true"
+xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_IncomeTaxesLiability" name="IncomeTaxesLiability"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="instant" xbrli:balance="credit" /> <element
+id="dd_ProceedsFromSaleAssetsNetCashSold"
+name="ProceedsFromSaleAssetsNetCashSold" type="xbrli:monetaryItemType"
+substitutionGroup="xbrli:item" nillable="true"
+xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_ScenarioUnauditedmember" name="ScenarioUnauditedmember"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_PensionBenefitPlans" name="PensionBenefitPlans"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_OtherBenefitPlans" name="OtherBenefitPlans"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_EmployeeBenefits" name="EmployeeBenefits"
+type="us-types:textBlockItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_InterimFinancialStatements" name="InterimFinancialStatements"
+type="us-types:textBlockItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_NotesToConsolidatedFinancialStatements"
+name="NotesToConsolidatedFinancialStatements" abstract="true"
+type="xbrli:stringItemType" substitutionGroup="xbrli:item"
+xbrli:periodType="duration" /> <element id="dd_HurricaneCharges"
+name="HurricaneCharges" type="us-types:textBlockItemType"
+substitutionGroup="xbrli:item" nillable="true"
+xbrli:periodType="duration" /> <element
+id="dd_DecreaseIncreaseInAccountsPayableOtherOperatingLiabilities"
+name="DecreaseIncreaseInAccountsPayableOtherOperatingLiabilities"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_DecreaseInAccruedInterestIncomeTaxes"
+name="DecreaseInAccruedInterestIncomeTaxes" type="xbrli:monetaryItemType"
+substitutionGroup="xbrli:item" nillable="true"
+xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_GeographicInformation" name="GeographicInformation"
+type="us-types:textBlockItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_CommonDividends" name="CommonDividends"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_PreferredDividends" name="PreferredDividends"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_PreferredStock450Series1673000SharescallableAt120"
+name="PreferredStock450Series1673000SharescallableAt120"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_PreferredStock350Series700000SharescallableAt102"
+name="PreferredStock350Series700000SharescallableAt102"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_LongtermEmployeeBenefits" name="LongtermEmployeeBenefits"
+type="us-types:textBlockItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_CompensationPlans" name="CompensationPlans"
+type="us-types:textBlockItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_EarningsPerShareCommonStock" name="EarningsPerShareCommonStock"
+type="us-types:textBlockItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_PrepaidExpenses" name="PrepaidExpenses"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="instant" xbrli:balance="debit" /> <element
+id="dd_IncomeTaxes" name="IncomeTaxes" type="xbrli:monetaryItemType"
+substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"
+xbrli:balance="debit" /> <element
+id="dd_ForwardExchangeContractSettlements"
+name="ForwardExchangeContractSettlements" type="xbrli:monetaryItemType"
+substitutionGroup="xbrli:item" nillable="true"
+xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_NetDecreaseincreaseInShorttermFinancialInstruments"
+name="NetDecreaseincreaseInShorttermFinancialInstruments"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_ReceiptsFromLongtermDebtOtherBorrowings"
+name="ReceiptsFromLongtermDebtOtherBorrowings"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" xbrli:balance="debit" /> <element
+id="dd_PaymentsLongtermOtherBorrowings"
+name="PaymentsLongtermOtherBorrowings" type="xbrli:monetaryItemType"
+substitutionGroup="xbrli:item" nillable="true"
+xbrli:periodType="duration" /> <element
+id="dd_ProceedsFromTerminationInterestRateSwap"
+name="ProceedsFromTerminationInterestRateSwap"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" /> <element
+id="dd_OtherAccruedLiabilitiesFootnote"
+name="OtherAccruedLiabilitiesFootnote" type="us-types:textBlockItemType"
+substitutionGroup="xbrli:item" nillable="true"
+xbrli:periodType="duration" /> <element id="dd_InterestExpenseFootnote"
+name="InterestExpenseFootnote" type="us-types:textBlockItemType"
+substitutionGroup="xbrli:item" nillable="true"
+xbrli:periodType="duration" /> <element
+id="dd_IncreaseDecreaseInInventoriesOtherOperatingAssets"
+name="IncreaseDecreaseInInventoriesOtherOperatingAssets"
+type="xbrli:monetaryItemType" substitutionGroup="xbrli:item"
+nillable="true" xbrli:periodType="duration" xbrli:balance="credit" /> </schema>

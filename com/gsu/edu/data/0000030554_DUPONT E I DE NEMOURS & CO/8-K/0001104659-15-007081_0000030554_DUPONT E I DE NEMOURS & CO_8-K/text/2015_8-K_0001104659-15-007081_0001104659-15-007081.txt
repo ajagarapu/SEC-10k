@@ -1,0 +1,712 @@
+<SEC-DOCUMENT>0001104659-15-007081.txt : 20150205
+<SEC-HEADER>0001104659-15-007081.hdr.sgml : 20150205
+<ACCEPTANCE-DATETIME>20150205171440
+ACCESSION NUMBER:		0001104659-15-007081
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20150205
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20150205
+DATE AS OF CHANGE:		20150205
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DUPONT E I DE NEMOURS & CO
+		CENTRAL INDEX KEY:			0000030554
+		STANDARD INDUSTRIAL CLASSIFICATION:	PLASTIC MATERIAL, SYNTH RESIN/RUBBER, CELLULOS (NO GLASS) [2820]
+		IRS NUMBER:				510014090
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00815
+		FILM NUMBER:		15581083
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1007 MARKET ST
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19898
+		BUSINESS PHONE:		3027741000
+
+	MAIL ADDRESS:	
+		STREET 1:		1007 MARKET ST
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19898
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a15-3853_38k.htm
+<DESCRIPTION>8-K
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">WASHINGTON, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">PURSUANT TO SECTION&nbsp;13 OR 15(d)&nbsp;OF</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">THE SECURITIES EXCHANGE ACT OF 1934</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of Earliest Event Reported): <b>February&nbsp;5, 2015</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">E. I. du Pont de Nemours and Company</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact Name of Registrant as Specified in Its Charter)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Delaware</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-815</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">51-0014090</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or Other Jurisdiction</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(I.R.S. Employer</font></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Of Incorporation)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">File Number)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Identification No.)</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1007 Market Street</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Wilmington, Delaware 19898</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive offices)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone number, including area code:&nbsp;<b>(302) 774-1000</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp; Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp; Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp; Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp; Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108646\15-3853-3\task7181016\3853-3-ba.htm',USER='108646',CD='Feb  6 03:22 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.75in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 5.02</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><u><font size="2" style="font-size:10.0pt;">Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</font></u></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(b)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Effective February&nbsp;5, 2015, Curtis J. Crawford and Richard H. Brown have resigned from the Board of Directors of E. I. du Pont de Nemours and Company (&#147;Company&#148; or &#147;DuPont&#148;) to serve initially as consultants to The Chemours Company (&#147;Chemours&#148;), and then as directors of Chemours upon completion of its separation from DuPont. Upon separation, Mr.&nbsp;Brown will serve as non-executive chairman of Chemours.&#160; A copy of the press release announcing the resignations of Mr.&nbsp;Crawford and Mr.&nbsp;Brown is attached hereto as Exhibit&nbsp;99.1.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(d)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">The Board of Directors, upon recommendation of the Corporate Governance Committee, elected Edward D. Breen and James L. Gallogly as new directors, effective February&nbsp;5, 2015. A copy of the press release announcing the election of Mr.&nbsp;Breen and Mr.&nbsp;Gallogly is attached hereto as Exhibit&nbsp;99.1.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">At the present time, Mr.&nbsp;Breen and Mr.&nbsp;Gallogly have not been named to any committee of the Board of Directors and it is premature to state which committee(s), if any, they may expect to be named to in the future.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">There is no arrangement or understanding with Mr.&nbsp;Breen, Mr.&nbsp;Gallogly and any other person pursuant to which either were elected as a director of the Company. There are no transactions in which Mr.&nbsp;Breen or Mr.&nbsp;Gallogly has an interest requiring disclosure under Item 404(a)&nbsp;of Regulation S-K.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr.&nbsp;Breen and Mr.&nbsp;Gallogly will participate in the standard director compensation arrangements described on pages&nbsp;15-16 of our 2014 Annual Meeting Proxy Statement, filed with the Commission on March&nbsp;14, 2014.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.75in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 8.01</font><font size="2" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160; </font><u><font size="2" style="font-size:10.0pt;">Other Events</font></u></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On February&nbsp;5, 2015, DuPont issued a press release announcing the resignations of Curtis J. Crawford and Richard H. Brown from its Board of Directors effective February&nbsp;5, 2015 and the appointment of James L. Gallogly and Edward D. Breen as new directors&#160; effective February&nbsp;5, 2015. A copy of the press release is filed herewith as Exhibit&nbsp;99.1 and incorporated by reference into this Item 8.01.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 9.01</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><u><font size="2" style="font-size:10.0pt;">Financial Statements and Exhibits</font></u></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(d)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Exhibits.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1 Press release, dated February&nbsp;5, 2015, entitled &#147;DuPont Appoints Edward D. Breen and James L. Gallogly to Board of Directors.&#148;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_015026_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\108646\15-3853-3\task7181016\3853-3-ba.htm',USER='108646',CD='Feb  6 03:22 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">SIGNATURE</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:15.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.52%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">`</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.48%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">E. I. DU PONT DE NEMOURS AND COMPANY</font><font size="2" style="font-size:10.0pt;">  </font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.52%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.48%;">
+<p style="margin:0in 0in .0001pt 1.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Registrant)</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.52%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.48%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.52%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:49.48%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/   Barry J. Niziolek</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.52%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:49.48%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Barry   J. Niziolek</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.52%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.48%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Vice   President and Controller</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">February&nbsp;5, 2015</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_015117_5335"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\108646\15-3853-3\task7181016\3853-3-ba.htm',USER='108646',CD='Feb  6 03:22 2015' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a15-3853_3ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+
+
+<html>
+<head>
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit 99.1</font></b></p>
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="font-size:12.0pt;margin:0in 0in .0001pt;"><img width="125" height="53" src="g38533mmi001.gif"><br clear="ALL"> </p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2"><img width="291" height="50" src="g38533mmi002.gif"></font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt 261.35pt;text-indent:-45.35pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.34%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Contact:</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="45%" valign="top" style="padding:0in 0in 0in 0in;width:45.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dan Turner</font></p>    </td>   </tr>
+<tr>
+<td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.34%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="45%" valign="top" style="padding:0in 0in 0in 0in;width:45.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">302-774-0081</font></p>    </td>   </tr>
+<tr>
+<td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.34%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="45%" valign="top" style="padding:0in 0in 0in 0in;width:45.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">daniel.a.turner@dupont.com</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt 261.0pt;text-indent:-45.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">DuPont Appoints Edward D. Breen and James L. Gallogly to Board of Directors</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;font-weight:bold;">Current DuPont Directors Curtis J. Crawford and Richard H. Brown</font></i></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;font-weight:bold;">to Serve Important Roles on Board of Chemours</font></i></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">WILMINGTON, Del., Feb.&nbsp;5, 2015 &#151;</font><font size="2" style="font-size:10.0pt;"> DuPont (NYSE: DD) today announced that it has appointed Edward D. Breen and James L. Gallogly as independent Directors to its Board, effective immediately.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The appointments of Mr.&nbsp;Breen and Mr.&nbsp;Gallogly have been made in anticipation of two current DuPont directors, Curtis J. Crawford and Richard H. Brown, transitioning off of the DuPont Board to serve initially as consultants to The Chemours Company (&#147;Chemours&#148;), and then as directors of Chemours upon completion of its separation from DuPont. Upon separation, Mr.&nbsp;Brown will serve as non-executive chairman of Chemours.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">DuPont Chair and Chief Executive Officer Ellen Kullman said, &#147;We thank Curt and Dick for their years of important contributions to DuPont&#146;s Board.&#160; They have brought valuable business insight and deep leadership and board experience that have helped contribute to the ongoing transformation of DuPont.&#160; Both Curt and Dick have been great colleagues and strong forces for progress.&#160; We know they will serve the Chemours Board with distinction, bringing that same drive and focus to help the management of Chemours attain their goals.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;Ed and Jim will bring their deep expertise and business acumen to an already highly distinguished DuPont Board as we continue the transformation of the company to deliver strong, sustainable growth and shareholder value,&#148; said Kullman. &#147;Both Ed and Jim are well-known for their outstanding records of performance and we are looking forward to adding their perspectives and experience to the change initiatives under way to deliver the next great era of innovation-driven growth at DuPont.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr.&nbsp;Breen led the revival of Tyco and over the course of his tenure, oversaw the repayment of over $20 billion in debt and delivered 703 percent total return to shareholders, significantly outperforming the 215&nbsp;percent total return of the S&amp;P 500 over the same period. Mr.&nbsp;Gallogly took over the reins of LyondellBassell shortly after the company filed for Chapter 11 protection. Through a focus on operational excellence and highly effective cost management, Mr.&nbsp;Gallogly guided the company out of bankruptcy within a year and upon relisting, delivered a 593 percent total return to shareholders, before announcing his retirement, relative to the 82 percent total return of the S&amp;P 500 over the same period.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr.&nbsp;Breen said, &#147;DuPont is a company with strong corporate governance practices and a world-class Board comprised of proven leaders across global industries. I am excited about joining this Board, which has demonstrated active oversight of a strategy that is delivering results and positioning the company for future success. I look forward to bringing my experience to DuPont and am confident in the company&#146;s prospects for continued success and value creation.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108736\15-3853-3\task7180844\3853-3-mm.htm',USER='108736',CD='Feb  6 02:22 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr.&nbsp;Gallogly added, &#147;I am honored to join the Board of Directors of DuPont, an iconic American company with a 200-year history of science and innovation. This is a critical and exciting time at DuPont, as the company continues to transform its portfolio and execute its comprehensive realignment. I look forward to working with my fellow directors and the management team to oversee the execution of these initiatives and to drive growth and generate value for all of the Company&#146;s shareholders.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">About Edward D. Breen</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr.&nbsp;Breen (age 58) currently serves as chairman of the Board of Directors of Tyco International plc (&#147;Tyco&#148;). As chairman and CEO from July&nbsp;2002 until September&nbsp;2012, Mr.&nbsp;Breen oversaw the design and implementation of the comprehensive action plan to transform Tyco into the strong market leader it is today, reviving the company from near bankruptcy and rebuilding the company&#146;s brand and credibility. Over the course of his tenure, Mr.&nbsp;Breen oversaw a highly successful restructuring, including two break-ups of the company resulting in the spin-offs of Covidien, Tyco Connectivity, ADT Corporation and the merger of Tyco Flow Control with Pentair.&#160; Mr.&nbsp;Breen has been awarded numerous governance awards including being named one of the &#147;100 Most Influential People in Business Ethics&#148; by Ethisphere.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr.&nbsp;Breen currently serves on the Board of Comcast and is a member of the Advisory Board of New Mountain Capital LLC, a private equity firm, and also serves on the Board of Trustees of Grove City College.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">About James L. Gallogly</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr.&nbsp;Gallogly (age 62) previously served as the chairman of the management board and chief executive officer of LyondellBasell Industries N.V. (LyondellBasell). In 2009, he was appointed CEO of LyondellBasell, four months after the company filed for Chapter 11 bankruptcy, and over the course of his tenure not only guided the company through the bankruptcy process, but also built the third largest independent chemical manufacturer in the United States. Under Mr.&nbsp;Gallogly&#146;s leadership, the company exited bankruptcy in under a year following a comprehensive restructuring and focused cost cutting effort. Over the next </font><font size="2" style="font-size:10.0pt;">four</font><font size="2" style="font-size:10.0pt;"> years, Mr.&nbsp;</font><font size="2" style="font-size:10.0pt;">Gallogly helped significantly e</font><font size="2" style="font-size:10.0pt;">xpand LyondellBasell&#146;s market value and position the company for tremendous growth.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr.&nbsp;Gallogly is a member of the University of Oklahoma College of Engineering Board of Visitors, the University of Colorado Engineering Advisory Council and the University Cancer Foundation Board of Visitors at the University of Texas M.D. Anderson Cancer Center.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_015838_3020"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\108736\15-3853-3\task7180844\3853-3-mm.htm',USER='108736',CD='Feb  6 02:22 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">About Curtis J. Crawford</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dr.&nbsp;Crawford (age 67) is founder, president and chief executive officer of XCEO,&nbsp;Inc., a consulting firm dedicated to developing and implementing proven principles and best practices in leadership and corporate governance, and has authored three books on the subject.&#160; In 2011, he was awarded the B. Kenneth West Lifetime Achievement Award from the National Association of Corporate Directors (NACD) for his contribution to corporate governance and for having made a meaningful impact in the boardroom.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dr.&nbsp;Crawford formerly served as president and chief executive officer of Onix Microsystems,&nbsp;Inc., and as chairman, chief executive officer and president of Zilog,&nbsp;Inc., a semiconductor design, manufacturing and marketing company. Prior to that, he spent 15 years at IBM before joining AT&amp;T Microelectronics, where he eventually became president and CEO.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dr.&nbsp;Crawford currently serves as a director of Xylem Corporation and ON Semiconductor Corporation, where, as Chairman of the Board, he played a key role in leading ON Semiconductor Corporation to an IPO after separating this $2 billion division from Motorola in 1999.&#160; He also previously served as a director of Lyondell Petrochemical Company,&nbsp;ITT Corporation and a Trustee of DePaul University.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">About Richard H. Brown</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr.&nbsp;Brown (age 67) served as chairman and chief executive officer of Electronic Data Systems Corporation (EDS), a leading global services company, from 1999 to 2003. During his tenure, he oversaw the integration of EDS&#146; discrete businesses and broadened the company&#146;s product and service offerings to meet growing global demand.&#160; As part of this, he reduced 48 strategic businesses to four lines of business, raised productivity and reduced costs by $5 billion, and restructured the business, putting more than 80 percent of staff in positions facing the marketplace.&#160; He previously served as chief executive officer of Cable&nbsp;&amp; Wireless from 1996-1999, CEO of H&amp;R Block from 1995-1996; CEO of Illinois Bell from 1990-1995; and EVP of Sprint.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr.&nbsp;Brown is currently Chairman of Browz Group, LLC. He is a former member of The Business Council; The Business Roundtable; U.S.-Japan Business Council; the French-American Business Council; the President&#146;s Advisory Committee on Trade and Policy Negotiations and the President&#146;s National Security Telecommunications Advisory Committee. He previously served on the Boards of EDS (as Chairman), Home Depot, Vivendi, Seagram and Pharmacia.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">DuPont</font></b><font size="2" style="font-size:10.0pt;"> (NYSE: DD) has been bringing world-class science and engineering to the global marketplace in the form of innovative products, materials, and services since 1802. The company believes that by collaborating with customers, governments, NGOs, and thought leaders, we can help find solutions to such global challenges as providing enough healthy food for people everywhere, decreasing dependence on fossil fuels, and protecting life and the environment. For additional information about DuPont and its commitment to inclusive innovation, please visit www.dupont.com.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ADDITIONAL INFORMATION AND WHERE TO FIND IT</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">DuPont intends to file a proxy statement with the U.S. Securities and Exchange Commission (the &#147;SEC&#148;) with respect to the 2015 Annual Meeting.&nbsp; DUPONT STOCKHOLDERS ARE STRONGLY ENCOURAGED TO READ ANY SUCH PROXY STATEMENT, THE ACCOMPANYING WHITE PROXY CARD AND OTHER DOCUMENTS FILED WITH THE SEC CAREFULLY IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_015914_7748"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\108736\15-3853-3\task7180844\3853-3-mm.htm',USER='108736',CD='Feb  6 02:22 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">DuPont, its directors, executive officers and other employees may be deemed to be participants in the solicitation of proxies from DuPont stockholders in connection with the matters to be considered at DuPont&#146;s 2015 Annual Meeting. Information about DuPont&#146;s directors and executive officers is available in DuPont&#146;s proxy statement, dated March&nbsp;14, 2014, for its 2014 Annual Meeting. To the extent holdings of DuPont&#146;s securities by such directors or executive officers have changed since the amounts printed in the 2014 proxy statement, such changes have been or will be reflected on Statements of Change in Ownership on Form&nbsp;4 filed with the SEC.&nbsp; More detailed information regarding the identity of potential participants, and their direct or indirect interests, by security holdings or otherwise, will be set forth in the proxy statement and other materials to be filed with the SEC in connection with DuPont&#146;s 2015 Annual Meeting. Stockholders will be able to obtain any proxy statement, any amendments or supplements to the proxy statement and other documents filed by DuPont with the SEC free of charge at the SEC&#146;s website at www.sec.gov. Copies also will be available free of charge at DuPont&#146;s website at www.dupont.com or by contacting DuPont Investor Relations at (302) 774-4994.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">#&#160;&#160; #&#160; #</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2/5/15</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_015932_141"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\108736\15-3853-3\task7180844\3853-3-mm.htm',USER='108736',CD='Feb  6 02:22 2015' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g38533mmi001.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g38533mmi001.gif
+M1TE&.#EA?0`U`'<`,2'_"T=!34U!3D]7,2XP!(!;`P``(?\+35-/1D9)0T4Y
+M+C`7````"VUS3U!-4T]&1DE#13DN,$(\I/4`(?\+35-/1D9)0T4Y+C`5````
+M"7!(67,```[$```.Q`&5*PX;`"'_"TU33T9&24-%.2XP&`````QC;5!02D-M
+M<#`W,3(````#2`!SO``L`````'T`-0"'SQ$1_.[NZYF9^-W=TR(BX&9FUC,S
+M]<S,[JJJW555Y'=WYXB(\;N[VD1$S```____XA/WOW\!``!R0N][[WL!`.2,
+M)@``````0P'=`7H"W0%Z`F"`$&"%``$```#@$````````!3X;P#$)O>_K"'`
+MOP!P;P!R0O>_Y(P!``(````P#&\`>`H``'H')@```-T!>@)O`!\WLH<``#R.
+M"`$N!P``:O>?!@``*0```'H"```````````````````?^&\`X/=O`!(_][\;
+M````]T'WOY"4_+_YS?>_D)3\OP`````/^&\``````+SW;P``````$?AO````
+M``#B$_>_?P$``,42][].<6\`%@```%Q!][\L^6\`W/MO```````4^6\`Q6/W
+MOP_X;P`6````+/EO``````#<^V\```````````"H<D@`9@AR0SI<5TE.1$]7
+M4UQ414U07%)%1$]604PN1TE&``#B$_>_?P$``.E!][_DC`$``````.2,`0`F
+M&/>_`````%H010`,1/F_N!GWOY*(```H_F\`;1CWO\]+<H@`````<HC/&"8`
+M`````$8"``#LB```T/AO`,\6```W)V\!``#/&#<G;P'RB'8][Q8$````Z1`#
+M"0``SQ;RB*8]M/AO``````!'`$`+0`L``/0```#\____````````````````
+MN')(`'#Z;P`2/_>_&P```/=!][^0E/R_^<WWOY"4_+\`````W/MO``````#B
+M$_>_?P$``,42][^A<0```````-QD][_<^V\```````$```"<"D4`V`-O````
+M``#<^V\`(````,"=SWIT^6\`2`(-`*#\3P`<`0``H*/WOP``30"\_4\`2`(-
+M```````,`$T```!-`*#\3P!``````````-`%````!0``G/EO`%"E][\``$T`
+M9Z7WOP``30!!````00````````"\_$\````````````$CT,`O/Q/``"B3@"D
+M_$\`P/Q/`,1R2`#_____`````("/0P"\_$\`"/\`'P@<2+"@P8,($RI<R+"A
+MPX<0(TJ<2+&BQ8L8,VK<R+&CQX\@0XH<2;*DR9,7!S!8N7*!RY<P6:Y$2;.A
+M2I<%&C1PP+.GSY]`@1IHD,#ES)HC!R!8D,!`4*$ZHTJ=JO/I3P`-%"Q@@#3C
+M`:8`@A)H4,`H@P$7`ZQ<NJ!J4`-E#W1]&$!`@K`^X6Z5RU"E3*X'_09(J%9`
+M6P)7$PA`.]=@W00^"90%7%`M8X(,K!H8/'`!7IX$%'`6R(!O009,$?<TL.!R
+MUP,%/BMV;7`!SP4&,UM5T/DI@,L]$20<8%>V\)H,=O)47'LGY0>V'>`^S1-K
+M5*<.&@S\/-1G@8$]>0__;`#7((("/0D(.)F\>FN$RI]'GXZ9I_:!NN\_Z&DZ
+M.@'P/!E`D'*="<!9``NH1L!Q(06`G@,`+,`9`SD5<%E\!,V7FWWU90>@`P7U
+M]*$#%_(TWG(,"J!:`[1M=(!J$CZ`H&H!GNB`?+=MZ"%^'`HD(D$_[M?3>@(1
+M6*1/$3+F&81$<B1`@'(A^)E/C&'8FW0ZZO=`?A^&:**//7UW)(@"":"<=V@-
+MH)QX&CWI0`&<31D:7H!9*9"&U.U(6H]"DMDEF-796)D`4THW6'1B8N1FHGTV
+M<)R5=D*78YY:<@FHEW[^Q)>1!9W9$V!NLEG1`3PQ*J26D/*$(Y:4=JA?D)<"
+M_SHIIP/>9J>;#%+D5`(&\?E`JC=F.*FKQ,;Z9Y\]TFHC5PP0@",`HTGT)+2]
+MZOFKJF.N2A^/UEK:)Z8C?JELM@(%$.VUID+DU+8`HHKMM<%>R>Z6OGH+Z[>`
+MJB;<N/`^5]``$)[K$,`D'N0KL-IF62R^QX;'$V_\1FJ04[D^E-E_!EN+L+"L
+M+DROGO<&&5R-$;^+D&WS-F2;ED!J_&ZD>'IL[Y<-F]B3FC37&N_)'4/T),OM
+MZERGR9+VO&>W?(9,LXB0.6!FSLLJA/)$NB%T\,M$Q\QMI4E#+;*)B):\\T&0
+MI=Q06!6#Z6Z\,`^[]<)*9VHBJ1"*[2]!`81E6D3H`?]]JM#DRJLC`3!A]ZK7
+M2W^I&EX'22RL@!01/._5;&?M]M%/-1GWGP_>&[A!`Z!MD6T`[/UWU/UR/*]N
+M08FZ>:P(_-0XT0,%X)3?$>U4>LL`&!AXVT9_3/A+9X';LMQD!B"[08X_@!ZU
+M:3FUNZQ)8C?TV%H?C?NQQ@;IZ>QCR_B\Z179#N%Q*CYU?<*M*O0ZP]%!_?D#
+M`TA/OD4!-"U:F=CU!("-N<K>Q[9GK.[1C&[RN];T'D`H!QC@?AA9DGH&`INP
+M`(!!T3$`99JV.E]ES$\&!"&-#K(`WVU).7`*"<X<,$'\1(MU]J'1W;QE-9Z,
+M!H'<ZYQ"&-`T9Y6D6=51``3C%6`5@='P@ZQ9@`+P<C@0N@F$M5L`=B)$DZ<%
+M2(B@:\M/FN0Q\`6%0;!"D+\&P)3TQ`A!+S')`9;HOP(LQB`'6(G`M+>0`=#(
+M?US,BMD"@``%W+$``:20`@20-I'T\8X`*$KQ^N(2+B:$+49AB%I2@R3%"&PK
+M1C%;4BB))#V6)BD,,$Q."I6=K2A$`"U!0"%1HI3#/$4G6BGA7T#W%]2\)"I6
+MR4Y<''(`5/:Q,0<I#%,\E<MB%G,LDX%@0Q8)S&6&TB4*D(HQAZ*3HIAECLW,
+6IC:WR<UN>O.;X`RG.,=)SG)B)"``.S\_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g38533mmi002.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g38533mmi002.gif
+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
+,3=&)4YA"CY8("``[
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

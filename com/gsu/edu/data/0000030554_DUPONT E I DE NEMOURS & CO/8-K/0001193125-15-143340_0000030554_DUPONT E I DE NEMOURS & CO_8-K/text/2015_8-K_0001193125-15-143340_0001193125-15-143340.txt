@@ -1,0 +1,305 @@
+<SEC-DOCUMENT>0001193125-15-143340.txt : 20150423
+<SEC-HEADER>0001193125-15-143340.hdr.sgml : 20150423
+<ACCEPTANCE-DATETIME>20150423104436
+ACCESSION NUMBER:		0001193125-15-143340
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20150423
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20150423
+DATE AS OF CHANGE:		20150423
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DUPONT E I DE NEMOURS & CO
+		CENTRAL INDEX KEY:			0000030554
+		STANDARD INDUSTRIAL CLASSIFICATION:	PLASTIC MATERIAL, SYNTH RESIN/RUBBER, CELLULOS (NO GLASS) [2820]
+		IRS NUMBER:				510014090
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00815
+		FILM NUMBER:		15787191
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1007 MARKET ST
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19898
+		BUSINESS PHONE:		3027741000
+
+	MAIL ADDRESS:	
+		STREET 1:		1007 MARKET ST
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19898
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d914622d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>WASHINGTON, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM&nbsp;8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT
+TO SECTION&nbsp;13 OR 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>OF THE SECURITIES EXCHANGE ACT OF 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of Earliest Event Reported): April&nbsp;23, 2015 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>E. I. du Pont de Nemours and Company </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact Name of Registrant as Specified in Its Charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-815</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>51-0014090</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or Other Jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Of Incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>1007 Market Street </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Wilmington, Delaware 19898 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Registrant&#146;s telephone number, including area code:&nbsp;(302)&nbsp;774-1000 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Item&nbsp;7.01 Regulation FD Disclosure </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">On April&nbsp;23, 2015, The Chemours Company (&#147;Chemours&#148;), a wholly-owned subsidiary of E. I. du Pont de Nemours and Company, issued
+a press release announcing the offering of debt securities under Rule 144A and Regulation S under the Securities Act of 1933, subject to market and other conditions, of approximately $2,125 million aggregate principal amount of senior unsecured
+dollar-denominated notes and &#128;350&nbsp;million aggregate principal amount of senior unsecured Euro-denominated notes. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">A copy of the
+Chemours press release is furnished herewith as Exhibit 99.1. The information contained in Item&nbsp;7.01, including Exhibit 99.1, of this report on Form 8-K shall not be deemed &#147;filed&#148; for purposes of Section&nbsp;18 of the Securities
+Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;), or otherwise subject to the liability of that section, and it will not be incorporated by reference into any registration statement or other document filed by the Registrant under the
+Securities Act of 1933, as amended, or the Exchange Act except as expressly set forth by specific reference in such a filing. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left">Item&nbsp;9.01</TD>
+<TD ALIGN="left" VALIGN="top">Financial Statements and Exhibits </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(d) Exhibits: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Press Release dated April 23, 2015*</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top">Furnished herewith. </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">SIGNATURE </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">E. I. DU PONT DE NEMOURS AND COMPANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center">(Registrant)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman" ALIGN="center">/s/&nbsp;&nbsp;&nbsp;&nbsp;Barry J.
+Niziolek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center">Barry J. Niziolek</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center">Vice President and Controller</TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">April&nbsp;23, 2015 </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d914622dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Press Release </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g914622ex99_1logo.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="15%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="83%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Contact:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Robert Dekker</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">302-996-8843</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"><U>robert.dekker@chemours.com</U></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>The Chemours Company Announces Launch of Senior Notes Offering </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WILMINGTON, Del., April&nbsp;23, 2015 &#150; The Chemours Company (&#147;Chemours&#148;) announced today the offering, subject to market and
+other conditions, of approximately $2,125 million aggregate principal amount of senior unsecured dollar-denominated Notes and &#128;350&nbsp;million aggregate principal amount of senior unsecured Euro-denominated Notes (together, the
+&#147;Notes&#148;). Chemours is a wholly owned subsidiary of E. I. du Pont de Nemours and Company (&#147;DuPont&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Notes
+offering is being launched by Chemours in anticipation of the DuPont proposed pro rata distribution of Chemours common stock to its stockholders (the &#147;Separation&#148;), and of Chemours&#146; expected distribution of approximately $4,000
+million to DuPont prior to the Separation, as more fully described in Chemours&#146; information statement filed as Exhibit 99.1 to its amended Registration Statement on Form 10 filed by Chemours with the Securities and Exchange Commission (the
+&#147;SEC&#148;) on April&nbsp;21, 2015. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Notes will not be registered under the Securities Act of 1933, as amended (the
+&#147;Securities Act&#148;), or any state securities law, and may not be offered or sold in the United States absent registration or an applicable exemption from registration under the Securities Act and applicable state securities laws. The Notes
+will be offered only to persons reasonably believed to be qualified institutional buyers under Rule 144A under the Securities Act and to non-U.S. persons in compliance with Regulation S under the Securities Act. This press release does not
+constitute an offer to sell any security and shall not constitute an offer, solicitation or sale in any jurisdiction in which such offer or sale would be unlawful. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">After the Separation from DuPont, Chemours will be an independent, publicly traded company and a global provider of performance chemicals
+through three reporting segments: Titanium Technologies, Fluoroproducts and Chemical Solutions. Chemours delivers customized solutions with a wide range of industrial and specialty chemical products for markets including plastics and coatings,
+refrigeration and air conditioning, general industrial, mining and oil refining. Principal products include titanium dioxide, refrigerants, industrial fluoropolymer resins and a portfolio of industrial chemicals including sodium cyanide and sulfuric
+acid. Chemours, based in Wilmington, Delaware, has approximately 9,100 employees and 37 production facilities in 12 countries, and serves more than 5,000 customers worldwide. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">DuPont (NYSE: DD) has been bringing world-class science and engineering to the global marketplace in the form of innovative products,
+materials, and services since 1802. The company believes that by collaborating with customers, governments, NGOs, and thought leaders we can help find solutions to such global challenges as providing enough healthy food for people everywhere,
+decreasing dependence on fossil fuels, and protecting life and the environment. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Forward-Looking Statements </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This document contains forward-looking statements which may be identified by their use of words like &#147;plans,&#148; &#147;expects,&#148; &#147;will,&#148;
+&#147;believes,&#148; &#147;intends,&#148; &#147;estimates,&#148; &#147;anticipates&#148; or other words of similar meaning. All statements that address expectations or projections about the future, including statements about growth strategies,
+product development, regulatory approval, market position, anticipated benefits of recent acquisitions, timing of anticipated benefits from restructuring actions, outcome of contingencies, such as litigation and environmental matters, expenditures
+and financial results, are forward looking statements. Forward-looking statements are not guarantees of future performance and are based on certain assumptions and expectations of future events which may not be realized. Forward-looking statements
+also involve risks and uncertainties. Some of the important factors that could cause actual results to differ materially from those projected in any such forward looking statements are: (i)&nbsp;risks related to the anticipated timing of the
+Separation and the Notes offering, (ii)&nbsp;risks that the conditions to the Separation, including the Notes offering and related financing transactions, are not satisfied, (iii)&nbsp;the use of proceeds from the Notes offering and
+(iv)&nbsp;additional factors described in DuPont&#146;s and Chemours&#146; filings with the SEC. Neither DuPont nor Chemours undertakes any duty to update such forward-looking statements as a result of future developments or new information. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"># # # </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">4/23/15 </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g914622ex99_1logo.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g914622ex99_1logo.jpg
+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
+&!0`4`?_9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

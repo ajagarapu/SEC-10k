@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--XBRL document created with CrossTag XBRL Enabler by Rivet Software version 2.0.3089.23121-->
+<!--Based on XBRL 2.1--> <!--Created on: 6/26/2008 9:31:31 AM--> <!--Modified on: 3/4/2009 11:57:42 AM-->
+<linkbase xmlns="http://www.xbrl.org/2003/linkbase"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
+<roleRef xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-roles-2008-03-31.xsd#soi2"
+roleURI="http://xbrl.us/us-gaap/role/statement/StatementOfIncomeAlternative" />
+<roleRef xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-roles-2008-03-31.xsd#sfp-cls"
+roleURI="http://xbrl.us/us-gaap/role/statement/StatementOfFinancialPositionClassified" />
+<roleRef xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-roles-2008-03-31.xsd#scf-indir"
+roleURI="http://xbrl.us/us-gaap/role/statement/StatementOfCashFlowsIndirect" />
+<roleRef xlink:type="simple"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-roles-2008-03-31.xsd#sheci"
+roleURI="http://xbrl.us/us-gaap/role/statement/StatementOfShareholdersEquityAndOtherComprehensiveIncome" />
+<calculationLink xlink:type="extended"
+xlink:role="http://xbrl.us/us-gaap/role/statement/StatementOfIncomeAlternative"
+xlink:title="124100 - Statement - Statement of Income (Excluding Gross Margin Alternative)">
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OperatingIncomeLoss"
+xlink:label="loc_OperatingIncomeLoss" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_Total" xlink:label="dd_Total" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_OperatingIncomeLoss" xlink:to="dd_Total" order="27.5"
+use="optional" weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_Revenues"
+xlink:label="loc_Revenues" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_OtherIncomeNet"
+xlink:label="dd_OtherIncomeNet_633528494772918519" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_Revenues" xlink:to="dd_OtherIncomeNet_633528494772918519"
+order="9.99" use="optional" weight="1" priority="2" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_IncomeTaxExpenseBenefit"
+xlink:label="loc_IncomeTaxExpenseBenefit" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_DeferredIncomeTaxExpenseBenefit"
+xlink:label="loc_DeferredIncomeTaxExpenseBenefit" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_IncomeTaxExpenseBenefit"
+xlink:to="loc_DeferredIncomeTaxExpenseBenefit" order="20" priority="1"
+use="prohibited" weight="1.0" /> </calculationLink> <calculationLink
+xlink:type="extended"
+xlink:role="http://xbrl.us/us-gaap/role/statement/StatementOfFinancialPositionClassified"
+xlink:title="104000 - Statement - Statement of Financial Position, Classified">
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AssetsCurrent"
+xlink:label="loc_AssetsCurrent" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_LiabilitiesCurrent"
+xlink:label="loc_LiabilitiesCurrent" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_IncomeTaxesLiability"
+xlink:label="dd_IncomeTaxesLiability" /> <calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_LiabilitiesCurrent" xlink:to="dd_IncomeTaxesLiability"
+order="55" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_LiabilitiesNoncurrent"
+xlink:label="loc_LiabilitiesNoncurrent" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherLiabilitiesNoncurrent"
+xlink:label="loc_OtherLiabilitiesNoncurrent" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_LiabilitiesNoncurrent"
+xlink:to="loc_OtherLiabilitiesNoncurrent" order="240" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_CashCashEquivalentsAndShortTermInvestments"
+xlink:label="loc_CashCashEquivalentsAndShortTermInvestments" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_CashAndCashEquivalentsAtCarryingValue"
+xlink:label="loc_CashAndCashEquivalentsAtCarryingValue" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_CashCashEquivalentsAndShortTermInvestments"
+xlink:to="loc_CashAndCashEquivalentsAtCarryingValue" order="10"
+priority="1" use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_CashAndCashEquivalentsAtCarryingValue"
+xlink:label="us-gaap_CashAndCashEquivalentsAtCarryingValue_633607837020086466" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AssetsCurrent"
+xlink:to="us-gaap_CashAndCashEquivalentsAtCarryingValue_633607837020086466"
+order="15.01" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ShortTermInvestments"
+xlink:label="loc_ShortTermInvestments" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_MarketableSecuritiesCurrent"
+xlink:label="loc_MarketableSecuritiesCurrent" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_ShortTermInvestments"
+xlink:to="loc_MarketableSecuritiesCurrent" order="10" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_MarketableSecuritiesCurrent"
+xlink:label="us-gaap_MarketableSecuritiesCurrent_633607838001993706" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AssetsCurrent"
+xlink:to="us-gaap_MarketableSecuritiesCurrent_633607838001993706"
+order="12.515" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AssetsNoncurrent"
+xlink:label="loc_AssetsNoncurrent" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PropertyPlantAndEquipmentNet"
+xlink:label="loc_PropertyPlantAndEquipmentNet" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AssetsNoncurrent"
+xlink:to="loc_PropertyPlantAndEquipmentNet" order="20" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_Assets"
+xlink:label="loc_Assets" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PropertyPlantAndEquipmentNet"
+xlink:label="us-gaap_PropertyPlantAndEquipmentNet_633607838261731066" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_Assets"
+xlink:to="us-gaap_PropertyPlantAndEquipmentNet_633607838261731066"
+order="20.51" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_Goodwill"
+xlink:label="loc_Goodwill" /> <calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AssetsNoncurrent" xlink:to="loc_Goodwill" order="40"
+priority="1" use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_Goodwill"
+xlink:label="us-gaap_Goodwill_633607838343778066" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_Assets" xlink:to="us-gaap_Goodwill_633607838343778066"
+order="20.265" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_IntangibleAssetsNetExcludingGoodwill"
+xlink:label="loc_IntangibleAssetsNetExcludingGoodwill" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AssetsNoncurrent"
+xlink:to="loc_IntangibleAssetsNetExcludingGoodwill" order="50"
+priority="1" use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_IntangibleAssetsNetExcludingGoodwill"
+xlink:label="us-gaap_IntangibleAssetsNetExcludingGoodwill_633607838512716746" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_Assets"
+xlink:to="us-gaap_IntangibleAssetsNetExcludingGoodwill_633607838512716746"
+order="20.1425" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures"
+xlink:label="loc_InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures" />
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_EquityMethodInvestments"
+xlink:label="loc_EquityMethodInvestments" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures"
+xlink:to="loc_EquityMethodInvestments" order="10" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_EquityMethodInvestments"
+xlink:label="us-gaap_EquityMethodInvestments_633607838657900866" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_Assets"
+xlink:to="us-gaap_EquityMethodInvestments_633607838657900866"
+order="20.08125" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherAssetsNoncurrent"
+xlink:label="loc_OtherAssetsNoncurrent" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AssetsNoncurrent" xlink:to="loc_OtherAssetsNoncurrent"
+order="250" priority="1" use="prohibited" weight="1.0" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherAssetsNoncurrent"
+xlink:label="us-gaap_OtherAssetsNoncurrent_633607838751668866" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_Assets"
+xlink:to="us-gaap_OtherAssetsNoncurrent_633607838751668866"
+order="20.050625" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AccountsPayableAndAccruedLiabilities"
+xlink:label="loc_AccountsPayableAndAccruedLiabilities" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AccountsPayable"
+xlink:label="loc_AccountsPayable" /> <calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AccountsPayableAndAccruedLiabilities"
+xlink:to="loc_AccountsPayable" order="10" priority="1" use="prohibited"
+weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AccountsPayable"
+xlink:label="us-gaap_AccountsPayable_633607839007968066" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_LiabilitiesCurrent"
+xlink:to="us-gaap_AccountsPayable_633607839007968066" order="15.01"
+use="optional" weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_DebtCurrent"
+xlink:label="loc_DebtCurrent" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ShortTermBorrowings"
+xlink:label="loc_ShortTermBorrowings" /> <calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_DebtCurrent" xlink:to="loc_ShortTermBorrowings"
+order="10" priority="1" use="prohibited" weight="1.0" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ShortTermBorrowings"
+xlink:label="us-gaap_ShortTermBorrowings_633607839134086026" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_LiabilitiesCurrent"
+xlink:to="us-gaap_ShortTermBorrowings_633607839134086026" order="25.01"
+use="optional" weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AccruedLiabilities"
+xlink:label="loc_AccruedLiabilities" /> <calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AccountsPayableAndAccruedLiabilities"
+xlink:to="loc_AccruedLiabilities" order="20" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AccruedLiabilities"
+xlink:label="us-gaap_AccruedLiabilities_633607839283489706" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_LiabilitiesCurrent"
+xlink:to="us-gaap_AccruedLiabilities_633607839283489706" order="12.515"
+use="optional" weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_LongTermDebtAndCapitalLeaseObligations"
+xlink:label="loc_LongTermDebtAndCapitalLeaseObligations" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_LiabilitiesNoncurrent"
+xlink:to="loc_LongTermDebtAndCapitalLeaseObligations" order="20"
+priority="1" use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_Liabilities"
+xlink:label="loc_Liabilities" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_LongTermDebtAndCapitalLeaseObligations"
+xlink:label="us-gaap_LongTermDebtAndCapitalLeaseObligations_633607839503844506" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_Liabilities"
+xlink:to="us-gaap_LongTermDebtAndCapitalLeaseObligations_633607839503844506"
+order="20.51" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherLiabilitiesNoncurrent"
+xlink:label="us-gaap_OtherLiabilitiesNoncurrent_633607839652154226" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_Liabilities"
+xlink:to="us-gaap_OtherLiabilitiesNoncurrent_633607839652154226"
+order="20.265" use="optional" weight="1" priority="2" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_DeferredTaxLiabilitiesNoncurrent"
+xlink:label="loc_DeferredTaxLiabilitiesNoncurrent" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_LiabilitiesNoncurrent"
+xlink:to="loc_DeferredTaxLiabilitiesNoncurrent" order="80" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_DeferredTaxLiabilitiesNoncurrent"
+xlink:label="us-gaap_DeferredTaxLiabilitiesNoncurrent_633607839724355586" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_Liabilities"
+xlink:to="us-gaap_DeferredTaxLiabilitiesNoncurrent_633607839724355586"
+order="20.1425" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AdditionalPaidInCapital"
+xlink:label="loc_AdditionalPaidInCapital" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AdditionalPaidInCapitalCommonStock"
+xlink:label="loc_AdditionalPaidInCapitalCommonStock" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AdditionalPaidInCapital"
+xlink:to="loc_AdditionalPaidInCapitalCommonStock" order="10" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_StockholdersEquity"
+xlink:label="loc_StockholdersEquity" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AdditionalPaidInCapitalCommonStock"
+xlink:label="us-gaap_AdditionalPaidInCapitalCommonStock_633607943737852579" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquity"
+xlink:to="us-gaap_AdditionalPaidInCapitalCommonStock_633607943737852579"
+order="85.01" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator" xlink:href="dd-20081231.xsd#dd_PrepaidExpenses"
+xlink:label="dd_PrepaidExpenses" /> <calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AssetsCurrent" xlink:to="dd_PrepaidExpenses" order="9.98"
+use="optional" weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_IncomeTaxes" xlink:label="dd_IncomeTaxes" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AssetsCurrent" xlink:to="dd_IncomeTaxes" order="105"
+use="optional" weight="1" priority="1" /> </calculationLink> <calculationLink
+xlink:type="extended"
+xlink:role="http://xbrl.us/us-gaap/role/statement/StatementOfCashFlowsIndirect"
+xlink:title="152200 - Statement - Statement of Cash Flows"> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsOfDividends"
+xlink:label="loc_PaymentsOfDividends" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsOfOrdinaryDividends"
+xlink:label="loc_PaymentsOfOrdinaryDividends" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_PaymentsOfDividends"
+xlink:to="loc_PaymentsOfOrdinaryDividends" order="10" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations"
+xlink:label="loc_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations" />
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsOfOrdinaryDividends"
+xlink:label="us-gaap_PaymentsOfOrdinaryDividends_633607841479536266" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations"
+xlink:to="us-gaap_PaymentsOfOrdinaryDividends_633607841479536266"
+order="135.01" use="optional" weight="-1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsForRepurchaseOfEquity"
+xlink:label="loc_PaymentsForRepurchaseOfEquity" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsForRepurchaseOfCommonStock"
+xlink:label="loc_PaymentsForRepurchaseOfCommonStock" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_PaymentsForRepurchaseOfEquity"
+xlink:to="loc_PaymentsForRepurchaseOfCommonStock" order="10" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsForRepurchaseOfCommonStock"
+xlink:label="us-gaap_PaymentsForRepurchaseOfCommonStock_633607841888677306" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations"
+xlink:to="us-gaap_PaymentsForRepurchaseOfCommonStock_633607841888677306"
+order="115.01" use="optional" weight="-1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ProceedsFromIssuanceOrSaleOfEquity"
+xlink:label="loc_ProceedsFromIssuanceOrSaleOfEquity" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ProceedsFromStockOptionsExercised"
+xlink:label="loc_ProceedsFromStockOptionsExercised" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_ProceedsFromIssuanceOrSaleOfEquity"
+xlink:to="loc_ProceedsFromStockOptionsExercised" order="70" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ProceedsFromStockOptionsExercised"
+xlink:label="us-gaap_ProceedsFromStockOptionsExercised_633607842772909546" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations"
+xlink:to="us-gaap_ProceedsFromStockOptionsExercised_633607842772909546"
+order="112.515" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsToAcquireProductiveAssets"
+xlink:label="loc_PaymentsToAcquireProductiveAssets" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsToAcquirePropertyPlantAndEquipment"
+xlink:label="loc_PaymentsToAcquirePropertyPlantAndEquipment" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_PaymentsToAcquireProductiveAssets"
+xlink:to="loc_PaymentsToAcquirePropertyPlantAndEquipment" order="10"
+priority="1" use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations"
+xlink:label="loc_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations" />
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsToAcquirePropertyPlantAndEquipment"
+xlink:label="us-gaap_PaymentsToAcquirePropertyPlantAndEquipment_633607844230845666" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations"
+xlink:to="us-gaap_PaymentsToAcquirePropertyPlantAndEquipment_633607844230845666"
+order="15.01" use="optional" weight="-1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsToAcquireInterestInSubsidiariesAndAffiliates"
+xlink:label="loc_PaymentsToAcquireInterestInSubsidiariesAndAffiliates" />
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsToAcquireEquityMethodInvestments"
+xlink:label="loc_PaymentsToAcquireEquityMethodInvestments" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_PaymentsToAcquireInterestInSubsidiariesAndAffiliates"
+xlink:to="loc_PaymentsToAcquireEquityMethodInvestments" order="20"
+priority="1" use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsToAcquireEquityMethodInvestments"
+xlink:label="us-gaap_PaymentsToAcquireEquityMethodInvestments_633607844623733586" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations"
+xlink:to="us-gaap_PaymentsToAcquireEquityMethodInvestments_633607844623733586"
+order="35.01" use="optional" weight="-1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsToAcquireBusinessesAndInterestInAffiliates"
+xlink:label="loc_PaymentsToAcquireBusinessesAndInterestInAffiliates" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired"
+xlink:label="loc_PaymentsToAcquireBusinessesNetOfCashAcquired" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_PaymentsToAcquireBusinessesAndInterestInAffiliates"
+xlink:to="loc_PaymentsToAcquireBusinessesNetOfCashAcquired" order="10"
+priority="1" use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired"
+xlink:label="us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired_633607844869249466" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations"
+xlink:to="us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired_633607844869249466"
+order="32.515" use="optional" weight="-1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_ProceedsFromSaleAssetsNetCashSold"
+xlink:label="dd_ProceedsFromSaleAssetsNetCashSold_633607845214940826" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations"
+xlink:to="dd_ProceedsFromSaleAssetsNetCashSold_633607845214940826"
+order="12.515" use="optional" weight="1" priority="2" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PensionAndOtherPostretirementBenefitContributions"
+xlink:label="loc_PensionAndOtherPostretirementBenefitContributions" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PensionContributions"
+xlink:label="loc_PensionContributions" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_PensionAndOtherPostretirementBenefitContributions"
+xlink:to="loc_PensionContributions" order="10" priority="1"
+use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_AdjustmentsForNoncashItemsIncludedInIncomeLossFromContinuingOperations"
+xlink:label="loc_AdjustmentsForNoncashItemsIncludedInIncomeLossFromContinuingOperations" />
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_PensionContributions"
+xlink:label="us-gaap_PensionContributions_633712368165838323" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_AdjustmentsForNoncashItemsIncludedInIncomeLossFromContinuingOperations"
+xlink:to="us-gaap_PensionContributions_633712368165838323" order="405.01"
+use="optional" weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_ForwardExchangeContractSettlements"
+xlink:label="dd_ForwardExchangeContractSettlements" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations"
+xlink:to="dd_ForwardExchangeContractSettlements" order="9.98"
+use="optional" weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_NetDecreaseincreaseInShorttermFinancialInstruments"
+xlink:label="dd_NetDecreaseincreaseInShorttermFinancialInstruments" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations"
+xlink:to="dd_NetDecreaseincreaseInShorttermFinancialInstruments"
+order="9.95999954223633" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ProceedsFromRepaymentsOfDebt"
+xlink:label="loc_ProceedsFromRepaymentsOfDebt" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ProceedsFromRepaymentsOfShortTermDebt"
+xlink:label="loc_ProceedsFromRepaymentsOfShortTermDebt" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_ProceedsFromRepaymentsOfDebt"
+xlink:to="loc_ProceedsFromRepaymentsOfShortTermDebt" order="10"
+priority="1" use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_ProceedsFromRepaymentsOfShortTermDebt"
+xlink:label="us-gaap_ProceedsFromRepaymentsOfShortTermDebt_633713544081407524" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations"
+xlink:to="us-gaap_ProceedsFromRepaymentsOfShortTermDebt_633713544081407524"
+order="15.01" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_ReceiptsFromLongtermDebtOtherBorrowings"
+xlink:label="dd_ReceiptsFromLongtermDebtOtherBorrowings" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations"
+xlink:to="dd_ReceiptsFromLongtermDebtOtherBorrowings" order="9.98"
+use="optional" weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_PaymentsLongtermOtherBorrowings"
+xlink:label="dd_PaymentsLongtermOtherBorrowings" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations"
+xlink:to="dd_PaymentsLongtermOtherBorrowings" order="9.98999977111816"
+use="optional" weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_ProceedsFromTerminationInterestRateSwap"
+xlink:label="dd_ProceedsFromTerminationInterestRateSwap" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations"
+xlink:to="dd_ProceedsFromTerminationInterestRateSwap" order="185"
+use="optional" weight="1" priority="1" /> </calculationLink> <calculationLink
+xlink:type="extended"
+xlink:role="http://xbrl.us/us-gaap/role/statement/StatementOfShareholdersEquityAndOtherComprehensiveIncome"
+xlink:title="148600 - Statement - Statement of Shareholders' Equity and Other Comprehensive Income">
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_StockholdersEquityPeriodIncreaseDecrease"
+xlink:label="loc_StockholdersEquityPeriodIncreaseDecrease" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecrease"
+xlink:label="us-gaap_OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecrease_633706523748352189" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="us-gaap_OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecrease_633706523748352189"
+order="185.01" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease"
+xlink:label="loc_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease" />
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPeriodIncreaseDecrease"
+xlink:label="loc_OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPeriodIncreaseDecrease" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease"
+xlink:to="loc_OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPeriodIncreaseDecrease"
+order="40" priority="1" use="prohibited" weight="1.0" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPeriodIncreaseDecrease"
+xlink:label="us-gaap_OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPeriodIncreaseDecrease_633706524766522801" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="us-gaap_OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPeriodIncreaseDecrease_633706524766522801"
+order="187.514997253418" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPeriodIncreaseDecrease"
+xlink:label="loc_OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPeriodIncreaseDecrease" />
+<loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherComprehensiveIncomeMinimumPensionLiabilityNetAdjustmentNetOfTax"
+xlink:label="loc_OtherComprehensiveIncomeMinimumPensionLiabilityNetAdjustmentNetOfTax" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPeriodIncreaseDecrease"
+xlink:to="loc_OtherComprehensiveIncomeMinimumPensionLiabilityNetAdjustmentNetOfTax"
+order="50" priority="1" use="prohibited" weight="1.0" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherComprehensiveIncomeMinimumPensionLiabilityNetAdjustmentNetOfTax"
+xlink:label="us-gaap_OtherComprehensiveIncomeMinimumPensionLiabilityNetAdjustmentNetOfTax_633706527666340207" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="us-gaap_OtherComprehensiveIncomeMinimumPensionLiabilityNetAdjustmentNetOfTax_633706527666340207"
+order="188.767499694824" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecrease"
+xlink:label="loc_OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecrease" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease"
+xlink:to="loc_OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecrease"
+order="20" priority="1" use="prohibited" weight="1.0" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecrease"
+xlink:label="us-gaap_OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecrease_633706530264112832" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="us-gaap_OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecrease_633706530264112832"
+order="189.393750915527" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator" xlink:href="dd-20081231.xsd#dd_CommonDividends"
+xlink:label="dd_CommonDividends" /> <calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="dd_CommonDividends" order="189.696876525879" use="optional"
+weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="dd-20081231.xsd#dd_PreferredDividends"
+xlink:label="dd_PreferredDividends" /> <calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="dd_PreferredDividends" order="189.848442077637" use="optional"
+weight="1" priority="1" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_StockIssuedDuringPeriodValueShareBasedCompensation"
+xlink:label="loc_StockIssuedDuringPeriodValueShareBasedCompensation" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="loc_StockIssuedDuringPeriodValueShareBasedCompensation"
+order="280" priority="1" use="prohibited" weight="1.0" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_StockIssuedDuringPeriodValueShareBasedCompensation"
+xlink:label="us-gaap_StockIssuedDuringPeriodValueShareBasedCompensation_633706543103750901" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="us-gaap_StockIssuedDuringPeriodValueShareBasedCompensation_633706543103750901"
+order="189.934224853516" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_TreasuryStockValueAcquiredCostMethod"
+xlink:label="loc_TreasuryStockValueAcquiredCostMethod" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="loc_TreasuryStockValueAcquiredCostMethod" order="430"
+priority="1" use="prohibited" weight="-1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_TreasuryStockValueAcquiredCostMethod"
+xlink:label="us-gaap_TreasuryStockValueAcquiredCostMethod_633706549499697340" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="us-gaap_TreasuryStockValueAcquiredCostMethod_633706549499697340"
+order="189.977109680176" use="optional" weight="1" priority="1" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_TreasuryStockValueRetiredCostMethod"
+xlink:label="loc_TreasuryStockValueRetiredCostMethod" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="loc_TreasuryStockValueRetiredCostMethod" order="460"
+priority="1" use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_TreasuryStockValueRetiredCostMethod"
+xlink:label="us-gaap_TreasuryStockValueRetiredCostMethod_633706550357408480" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="us-gaap_TreasuryStockValueRetiredCostMethod_633706550357408480"
+order="189.997831115723" use="optional" weight="1" priority="2" /> <loc
+xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_CumulativeEffectOfInitialAdoptionOfSFAS158"
+xlink:label="loc_CumulativeEffectOfInitialAdoptionOfSFAS158" /> <calculationArc
+xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="loc_CumulativeEffectOfInitialAdoptionOfSFAS158" order="140"
+priority="1" use="prohibited" weight="1.0" /> <loc xlink:type="locator"
+xlink:href="http://xbrl.us/us-gaap/1.0/elts/us-gaap-2008-03-31.xsd#us-gaap_CumulativeEffectOfInitialAdoptionOfSFAS158"
+xlink:label="us-gaap_CumulativeEffectOfInitialAdoptionOfSFAS158_633706556487019500" />
+<calculationArc xlink:type="arc"
+xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item"
+xlink:from="loc_StockholdersEquityPeriodIncreaseDecrease"
+xlink:to="us-gaap_CumulativeEffectOfInitialAdoptionOfSFAS158_633706556487019500"
+order="190.008916625977" use="optional" weight="1" priority="1" /> </calculationLink>
+</linkbase>

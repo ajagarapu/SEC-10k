@@ -1,0 +1,882 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Fral8QR9FtRTybKaVaNDReHnqD51thou5GvGWvOLYhwqK49+aQkzMyZEKehorPHy
+ X6eGaKm/99VFwLjDBtdoIw==
+
+<SEC-DOCUMENT>0000950123-09-046992.txt : 20090929
+<SEC-HEADER>0000950123-09-046992.hdr.sgml : 20090929
+<ACCEPTANCE-DATETIME>20090929162355
+ACCESSION NUMBER:		0000950123-09-046992
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20090923
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20090929
+DATE AS OF CHANGE:		20090929
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DUPONT E I DE NEMOURS & CO
+		CENTRAL INDEX KEY:			0000030554
+		STANDARD INDUSTRIAL CLASSIFICATION:	PLASTIC MATERIAL, SYNTH RESIN/RUBBER, CELLULOS (NO GLASS) [2820]
+		IRS NUMBER:				510014090
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00815
+		FILM NUMBER:		091093195
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1007 MARKET ST
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19898
+		BUSINESS PHONE:		3027741000
+
+	MAIL ADDRESS:	
+		STREET 1:		1007 MARKET ST
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19898
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>w75784e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+PURSUANT TO SECTION 13 OR 15(d) OF<BR>
+THE SECURITIES EXCHANGE ACT OF 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><b>Date
+of Report (Date of Earliest Event Reported) September&nbsp;23,
+2009</b></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>E. I. du Pont de Nemours and Company</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact Name of Registrant as Specified in Its Charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Delaware<BR>
+(State or Other Jurisdiction <BR>
+Of Incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">1-815<BR>
+(Commission<BR>
+File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">51-0014090<BR>
+(I.R.S. Employer<BR>
+Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">1007 Market Street<BR>
+Wilmington, Delaware 19898<BR>
+(Address of principal executive offices)
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">Registrant&#146;s telephone number, including area code: (302)&nbsp;774-1000
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions:
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link2 "Item&nbsp;5.02 Departure of Directors or Certain Officers; Election of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Directors; Appointment of Certain Officers; Compensatory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arrangements of Certain Officers." -->
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;5.02</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>Departure of Directors or Certain Officers; Election of
+Directors; Appointment of Certain Officers; Compensatory
+Arrangements of Certain Officers.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Richard R. Goodmanson will retire as Executive Vice President &#038; Chief Operating Officer of the
+Company effective September&nbsp;30, 2009. To ensure his active participation on behalf of the Company
+in ongoing litigation and other business matters, the Company has entered into a three-year
+consulting agreement with Mr.&nbsp;Goodmanson, effective as of his retirement, pursuant to which he
+shall be paid a $200,000 annual retainer plus a $2,000 per diem payment when actively involved in
+litigation support and business projects on behalf of the Company. The agreement with Mr.
+Goodmanson contains customary provisions, including a restriction on his ability to take on any
+work that may create a conflict of interest, non-competition and non-solicitation covenants,
+protection of confidential information and reimbursement of expenses associated with his
+performance under the agreement.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The foregoing description is qualified in its entirety by reference to the agreement, a copy of
+which is attached hereto as Exhibit&nbsp;99.1.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Mr.&nbsp;Goodmanson&#146;s retirement, and the Compensation Committee&#146;s approval of the consulting agreement
+in anticipation thereof, were each reported previously on Forms 8-K filed with the Commission on
+August&nbsp;13, 2009 and October&nbsp;6, 2008, respectively.
+</DIV>
+
+<!-- link2 "Item&nbsp;9.01 Financial Statements and Exhibits" -->
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;9.01</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>Financial Statements and Exhibits</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(d)&nbsp;Exhibits
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The following exhibits are filed herewith:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.1 Consulting Agreement with Richard R. Goodmanson
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<!-- link1 "SIGNATURE" -->
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">SIGNATURE
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">E. I. DU PONT DE NEMOURS AND COMPANY</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Registrant)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">/s/ Barry J. Niziolek</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Barry J. Niziolek</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Vice President and Controller</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">September&nbsp;29, 2009
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>w75784exv99w1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><B>Exhibit&nbsp;99.1</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%"></TD>
+    <TD width="5%"></TD>
+    <TD width="47%"></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top"><BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="left" valign="top"><IMG src="w75784w7578401.gif" alt="(DUPONT LOGO)">
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">Wilmington, DE 19898</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">September&nbsp;22, 2009
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Richard Goodmanson<BR>
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Dear Richard:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Per our discussion, I am pleased to offer you a consulting agreement with DuPont on
+the following terms and conditions.
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Our agreement will commence on October&nbsp;1, 2009 and will continue in effect until
+September&nbsp;30, 2012.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>You will provide consulting services on litigation support and business projects
+identified by Ellen J. Kullman (&#147;Business Projects&#148;).</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>DuPont will pay you an annual retainer equal to $200,000, payable in advance in two
+equal semiannual installments on October 1 and April&nbsp;1, plus a $2,000 per diem payment
+when actively involved in Business Projects. It is anticipated that most of the services
+required hereunder will be performed at your primary place of residence. DuPont will make
+available to you at no charge office space in Wilmington for use in connection with the
+services you will perform for DuPont. If, at DuPont&#146;s request, you travel from your
+primary place of residence to Wilmington or any other location in connection with the
+work performed hereunder, DuPont will reimburse you for reasonable travel expenses
+incurred in traveling to and from the location, and for living expenses when at the
+destination, but not for time spent in travel.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">4.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Per diem consulting fees will be paid to you within thirty (30)&nbsp;days after receipt
+of a correct invoice for such fees. You will be reimbursed for travel-related costs and
+expenses within thirty (30)&nbsp;days after receipt of a correct invoice for such costs and
+expenses. All travel-related costs and expenses will be subject to DuPont travel
+guidelines and procedures in effect from time to time. All non-travel-related costs and
+expenses incurred in connection with the provision of consulting services hereunder will
+require the prior written approval of DuPont.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">5.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>You will not disclose to others without DuPont&#146;s written consent any confidential,
+proprietary or unpublished information concerning DuPont&#146;s businesses and research
+activities and interests with which you become familiar in your contacts with DuPont.
+Similarly, you will not disclose to others without DuPont&#146;s written consent the results
+or specific nature of your consulting work for DuPont. Your obligations under this
+paragraph will continue after termination of this agreement insofar as they relate to
+activities prior to termination.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">E. I. du Pont de Nemours and Company
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">6.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>You agree that during the term of this agreement and for a period of one (1)&nbsp;year
+following its termination, you will not directly or indirectly:</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">(a)&nbsp;be employed by or consult with, render services to, or engage in any Competing
+Business;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">(b)&nbsp;promote, solicit or induce for yourself or any other person or entity the sale of any
+Competing Product(s) to any entity or person who is or has been a customer of the company
+since September&nbsp;30, 2004; and
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">(c)&nbsp;solicit or induce for any Competing Business the employment of any person who is now,
+or any time after the date hereof, employed by the company.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">For the purposes of this paragraph,
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&#147;Competing Business&#148; means any business which is engaged in, or about to become engaged in
+research, development, production, marketing, or selling of a Competing Product(s).
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&#147;Competing Product(s)&#148; means product(s), process(es), or service(s) which competes
+directly or indirectly within the company&#146;s product(s), process(es), or service(s) with
+which you have worked, either as employee of the company or an independent contractor,
+since September&nbsp;30, 2004, or about which you have acquired the company&#146;s trade secret,
+technical or non-technical confidential information.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">In the event of any uncertainty over whether a business constitutes a Competing Business
+or whether product(s), process(es) or service(s) constitute a Competing Product(s), such
+determination(s) shall be made by the Company&#146;s Chief Executive Officer in her sole
+discretion.
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">7.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>You will personally perform the consulting services contemplated by this agreement
+and will not delegate or assign such services to a third party.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">8.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>During the term of this agreement, your position will be that of an independent
+contractor, and not an employee of DuPont. You will be personally responsible for any
+and all tax obligations you incur in connection with the consulting services performed
+hereunder. You will also be responsible for costs incurred in maintaining an office
+outside of Wilmington and any other costs incurred in performing the consulting services,
+except as set forth in paragraph 4 above.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">9.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>You, on behalf of yourself and your successors and assigns, hereby release DuPont
+and its employees, agents and contractors (&#147;Released Parties&#148;) from any and all liability
+for personal injury, death or property damage relating in any way to your provision of
+consulting services hereunder, except to the extent (but</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>only to the extent) such liability is caused by the negligence or willful misconduct of
+any Released Party. The claims, liabilities, damages, losses or expenses covered hereunder
+include, but are not limited to settlements, judgments, court costs, attorneys&#146; fees and
+other litigation expenses, fines and penalties.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">10.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>This agreement does not change in any manner your rights and obligations under any
+other agreement with DuPont, including, but not limited to, your Retention Agreement
+dated December&nbsp;9, 2008, your Employee Agreement dated May&nbsp;10, 1999 and any DuPont benefit
+plan.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">11.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Amounts payable hereunder will not be taken into account for determining any
+Company-provided benefits or compensation plans and/or arrangements.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">12.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>You will comply with all laws, rules and regulations of any governmental authority
+applicable to the performance of services under this agreement.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">13.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>If any one or more provisions of this agreement shall, for any reason, be held to be
+invalid, illegal, or unenforceable in any respect, such provision(s) shall not affect any
+other provision of this agreement and this agreement shall be construed as if the
+invalid, illegal, or unenforceable provision had never been contained herein.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">14.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>This agreement will be governed by the laws of the state of Delaware.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">15.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>This letter constitutes the entire agreement between us with respect to this
+subject.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the foregoing is acceptable to you, please acknowledge your agreement by signing the
+enclosed copy of this letter in the space provided, and returning the signed copy to me for our
+files.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Very truly yours,<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">/s/ Ellen Kullman
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Ellen J. Kullman&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">AGREED AND ACCEPTED:
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Richard R. Goodmanson
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="41%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Signature:
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Richard R. Goodmanson
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Date:
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">9/23/09</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>w75784w7578401.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 w75784w7578401.gif
+M1TE&.#EA4@`A`/<```````@("!`0$!@8&"$A(2DI*3$Q,3DY.4)"0DI*2E)2
+M4EI:6F-C8VMK:W-S<WM[>X2$A(R,C)24E)R<G*6EI:VMK;6UM;V]O<;&QL[.
+MSM;6UM[>WN?GY^_O[_?W]_______________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M_____________________RP`````4@`A```(_@`_"!Q(L*!!@1PP2'"P(`$!
+M`@`B2IQ(L6)$`@84+(AP@</!CR!#%NR`84(#`P$H#AB0D4&$"!)@6K@PTX(%
+M"1(FY(S`0`&"E1,#&&A`08/(HR`W3%`P8&(!!1`J9,C0P8-`#5BS;BCHP0*%
+MKQX%>NBPX0)/E!(-.,!@%:G(#1$02"3@\L(&JW"-#O1@@&(`!P,Q0)08((+8
+M!1`(DH1P("6``A#TNBUX08'C`Q`NX&WKH0"`!P0]#*:(X8.'`X0EEMX0L;1I
+M"!(Z?.!088'C!1<F"[R0X&+DO0@"2!#8`6+B@1T\(X``@4%*"A\VI#QP00.$
+MB(DYI`3]H4/$!A\T_DS0L(&"7``)7+]=$!%![@X:VG80`,"P:<_'Q4*T/Q\`
+M=.D`3#"09^!I!X`!5O7'P`</`""``D7Q%I$#;7U$05/4?9!!`P,$@(!L'30U
+M7'?XA59B=/3]EU(%8LD%V`;T`5!:?^!-,-$`$&Q@@6<';'60`P`$D!@&"3B&
+M77=-V2<:`/F1R*1`,/H7W8IBH0:8@0``1J-I%G`HT0`3=,````2H-]"8!92&
+MP8T1*=#=?F*=J-^3*$H)((NF65GG@=W1!]Y`%%"4P0<2D"G9!T!^*)"-`"!@
+M`0<0+8`D`",F1V><=$:I(@!XGI;E;(X%0)6?!&&0DD\`Y/9!!.@-=,%C_F%]
+M$&BJID7Z9GUS-FGI<9I.R6F5GT89400>D.IJ1-!A()M`"@#05F^J"C2K!;=*
+M&B*EQ,E9:Z8I^MJIGE@"<,"6KJ8T(D$:!,!BN@@4-&VUMRIIG(G<VDEEGL'&
+M&.0%3?VY6T0"&H0`>(':!VA$U!8'@+4B9GNID[QV>R>P5Z9D@)_]$G2!N0=!
+M@(`'@09\,``)VZJPO`\O&;&]O^+[(GT.].:8OQ^\&N!!$A3@@8WG2HLPO-=6
+MJFUG='(@\;V>5OP9JQ+1O#&V!C$@Z:L+$O2NPM;"N:VNGCW000<9/.<MQ74^
+M`.!W&@-L4'&))2?`H5>;W##$H4$4P``"Q+CI_K>?&@A87VB7"S5!A?IH8P(5
+MSOJ>R5JK3"]%!!@UL<MU`L8T`$ZKC6[>!,E5]0>,4OB!W%#OJIAG!"B@.@.#
+MCDVYW^'-K#''`W'0E\BS=6V5S8U"0!_#4#N^U[P&39YTY0*=E_G@&/0%6$$;
+M0)2`41*,%A'P2@ZM[4#&@YO2\]=AGG8`N7D`P78?;=";``%/@%I$+/(EKD<*
+M<Y?K00!2*Y">43ZO0>!7@<"@*H`:`4`G)!&P&)XPD)F!``D``U#`^WIF.H.D
+MBTZ6*M#W@/6Y@5C@/`OPD4@RP!XRK:4@''C?7&)%M[5!1``+:,!YLI,2?U7O
+M@!ZXP`,&DX!HN04#U@R($0$:4(&P[(P!!QC*H6YEOX(4BB(%\`B,V$<0#G2@
+M`@T83``8X$/=S$8""8B1``[0@/%8$20/,,`!#_*``N3M``X0X09`E`$*."`X
+M$7G0!$3H18-PP`(.0$M$`D"`!#0``A28R0;.:)4*K8T\'!B+!F["DY\0!@$.
+M>%0?)T.;""P``=8+R@%&.<J!->"4IT0B`BQ9D0`48",76-8F9VD:K%1@(3)$
+MP`$$D!(CM3(`0D%``ASP``I4@#R.I*4R0?*UKV'@`M"$)@:LV,QE6O.:V/1B
+$0```.S\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
